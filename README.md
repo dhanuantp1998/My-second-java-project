@@ -1,1 +1,1 @@
-# My-second-java-project 1
+# My-second-java-project
